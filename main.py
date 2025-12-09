@@ -11,8 +11,4 @@ users = get_users()
 for u in users:
     print(u)
 
-# # UPDATE
-# update_user(1, "John Updated", "john.updated@example.com")
 
-# # DELETE
-# delete_user(2)
